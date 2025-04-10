@@ -31,6 +31,21 @@ Criar uma ferramenta que desperte o usuário e, ao mesmo tempo, informe **clima 
 
 ## 📷 Screenshots
 
+### 🟢 Login
+![Login](alarme_login.png)
+
+### 🟢 Lista de Alarmes
+![Lista de Alarmes](alarme_list.png)
+
+### 🟢 Editar Alarme
+![Editar Alarme](alarme_editar.png)
+
+### 🟢 Seleção de Música
+![Música](alarme_musica.png)
+
+### 🟢 Tela de Soneca
+![Soneca](alarme_soneca.png)
+
 > (Adicione aqui imagens do app se quiser)
 
 ## 📲 Instalação
