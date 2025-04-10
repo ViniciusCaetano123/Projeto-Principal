@@ -32,11 +32,11 @@ Criar uma ferramenta que desperte o usuário e, ao mesmo tempo, informe **clima 
 ## 📷 Screenshots
 
 <p float="left">
-  <img src="alarme_login.png" width="250" height="290" />
-  <img src="alarme_list.png" width="250" height="290" />
-  <img src="alarme_editar.png" width="250" height="290" />
-  <img src="alarme_musica.png" width="250" height="290" />
-  <img src="alarme_soneca.png" width="250" height="290" />
+  <img src="alarme_login.png" />
+  <img src="alarme_list.png" />
+  <img src="alarme_editar.png" />
+  <img src="alarme_musica.png" />
+  <img src="alarme_soneca.png" />
 </p>
 
 > (Adicione aqui imagens do app se quiser)
